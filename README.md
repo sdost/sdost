@@ -1,4 +1,4 @@
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdost&count_private=true&show_icons=true&theme=vue-dark)
+![Sam's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sdost&count_private=true&show_icons=true&theme=vue-dark)
 
 <!--
 **sdost/sdost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
